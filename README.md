@@ -1,4 +1,19 @@
-### Hi there 👋
+## Khayci
+Avid hobbyist / learner.
+
+Unforeseen circumstances made me a developer.
+
+Low Level Enthuasist.
+
+## **Projects**
+* [Nova Food](https://www.novafood.io/)
+
+## `whoami(1)`
+
+* OS Internals (WinAPI & WDK)
+* Malware Analysis (x86-32 & x86-64)
+* Embedded Hardware (ECUs for vehicles)
+* Full Stack
 
 <!--
 **khayci/khayci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
