@@ -10,22 +10,11 @@ Low Level Enthuasist.
 
 ## `whoami(1)`
 
-* OS Internals (WinAPI & WDK)
-* Malware Analysis (x86-32 & x86-64)
-* Embedded Hardware (ECUs for vehicles)
-* Full Stack
+```diff
++ Windows Kernal
++ Malware Analysis
++ Embedded Hardware
++ Full Stack
 
-<!--
-**khayci/khayci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+! x86, C, C++, Python, React
+```
